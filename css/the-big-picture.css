@@ -1,0 +1,38 @@
+/*!
+ * Start Bootstrap - The Big Picture (https://startbootstrap.com/template-overviews/the-big-picture)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-the-big-picture/blob/master/LICENSE)
+ */
+body {
+    background-color: darksalmon;
+}
+.wrapper {
+    text-align: center;
+}
+
+.button, .word {
+    position: absolute;
+    top: 50%;
+}
+#inline{
+    display:inline-block;
+}
+.wordDisplay{
+    margin-top: 10%;
+}
+.wrapper1{
+    text-align: center;
+}
+#nextBtn, #transalteBtn{
+    top: 65%;
+    position: absolute;
+    display: none;
+}
+#transalteBtn{
+    top: 55%;
+}
+#translate{
+    top: 60%;
+    position: absolute;
+    display: none;
+}

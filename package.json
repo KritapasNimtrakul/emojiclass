@@ -1,0 +1,29 @@
+{
+    "title": "TxC",
+    "name": "TxCTech",
+    "version": "4.1.2",
+    "description": "",
+    "keywords": [
+        "css",
+        "sass",
+        "html",
+        "responsive",
+        "theme",
+        "template"
+    ],
+    "homepage": "index.html",
+    "license": "MIT",
+    "author": "Kritapas Nimtrakul",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "dependencies": {
+        "bootstrap": "4.2.1",
+        "jquery": "3.3.1"
+    },
+    "devDependencies": {
+        "browser-sync": "2.26.3",
+        "gulp": "4.0.0"
+    }
+}
